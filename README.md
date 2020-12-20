@@ -10,3 +10,5 @@ ng serve --open
 
 #Component
 ng generate component heroes
+
+#Url: https://angular.io/tutorial/toh-pt2

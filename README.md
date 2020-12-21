@@ -8,10 +8,13 @@ ng new angular-tour-of-heroes
 cd angular-tour-of-heroes
 ng serve --open
 
-#Component
+#Add a Component
 ng generate component heroes
 
 #2) Display a List - https://angular.io/tutorial/toh-pt2
 
 #3) Create a feature component - https://angular.io/tutorial/toh-pt3
 
+#4) Add services - https://angular.io/tutorial/toh-pt4
+#Add a Service
+ng generate service hero

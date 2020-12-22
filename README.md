@@ -18,3 +18,5 @@ ng generate component heroes
 #4) Add services - https://angular.io/tutorial/toh-pt4
 #Add a Service
 ng generate service hero
+ng generate component messages
+ng generate service message

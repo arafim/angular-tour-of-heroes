@@ -32,4 +32,6 @@ ng generate component dashboard
 
 #Navigating to hero details.
 
+#Routable HeroDetailComponent
+
 

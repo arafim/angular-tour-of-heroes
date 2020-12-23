@@ -28,9 +28,9 @@ ng generate module app-routing --flat --module=app
 	--module=app tells the CLI to register it in the imports array of the AppModule.
 
 #Add a Dashboard view
+ng generate component dashboard
 
-
-#Add the ability to navigate between the Heroes and Dashboard views.
+#Navigating to hero details.
 
 
 #When users click a hero name in either view, navigate to a detail view of the selected hero.

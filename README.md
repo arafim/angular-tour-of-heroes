@@ -20,3 +20,20 @@ ng generate component heroes
 ng generate service hero
 ng generate component messages
 ng generate service message
+
+#5) Add in-app navigation with routing - https://angular.io/tutorial/toh-pt5
+#Adding Routing
+ng generate module app-routing --flat --module=app
+	--flat puts the file in src/app instead of its own folder.
+	--module=app tells the CLI to register it in the imports array of the AppModule.
+
+#Add a Dashboard view
+
+
+#Add the ability to navigate between the Heroes and Dashboard views.
+
+
+#When users click a hero name in either view, navigate to a detail view of the selected hero.
+
+
+#When users click a deep link in an email, open the detail view for a particular hero.

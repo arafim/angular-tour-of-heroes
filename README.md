@@ -33,7 +33,3 @@ ng generate component dashboard
 #Navigating to hero details.
 
 
-#When users click a hero name in either view, navigate to a detail view of the selected hero.
-
-
-#When users click a deep link in an email, open the detail view for a particular hero.

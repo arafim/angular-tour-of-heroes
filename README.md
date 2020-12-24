@@ -34,4 +34,7 @@ ng generate component dashboard
 
 #Routable HeroDetailComponent
 
-
+#6) Get data from a server -  https://angular.io/tutorial/toh-pt6
+#Heroes and HTTP
+npm install angular-in-memory-web-api --save 
+ng generate service InMemoryData

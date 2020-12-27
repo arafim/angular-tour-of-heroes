@@ -38,3 +38,8 @@ ng generate component dashboard
 #Heroes and HTTP
 npm install angular-in-memory-web-api --save 
 ng generate service InMemoryData
+
+#Update heroes
+
+
+

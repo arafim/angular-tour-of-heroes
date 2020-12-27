@@ -47,3 +47,5 @@ ng generate service InMemoryData
 
 #Search by name
 ng generate component hero-search
+
+#Final code review

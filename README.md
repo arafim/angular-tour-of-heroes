@@ -44,3 +44,6 @@ ng generate service InMemoryData
 #Add a new hero
 
 #Delete a hero
+
+#Search by name
+ng generate component hero-search

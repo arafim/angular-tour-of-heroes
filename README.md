@@ -43,3 +43,4 @@ ng generate service InMemoryData
 
 #Add a new hero
 
+#Delete a hero
